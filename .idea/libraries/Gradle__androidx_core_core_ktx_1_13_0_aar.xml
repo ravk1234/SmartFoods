@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.core:core-ktx:1.13.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../allergen/IngredientsScanner/gradle/caches/transforms-4/5c1cc8d85fa790dcd9f68a2444ea3daa/transformed/jetified-core-ktx-1.13.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../allergen/IngredientsScanner/gradle/caches/transforms-4/5c1cc8d85fa790dcd9f68a2444ea3daa/transformed/jetified-core-ktx-1.13.0/res" />
+      <root url="file://$PROJECT_DIR$/../allergen/IngredientsScanner/gradle/caches/transforms-4/5c1cc8d85fa790dcd9f68a2444ea3daa/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../allergen/IngredientsScanner/gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.13.0/2ebeecb97d5b1557fc7b3e3758447b8176e322e8/core-ktx-1.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

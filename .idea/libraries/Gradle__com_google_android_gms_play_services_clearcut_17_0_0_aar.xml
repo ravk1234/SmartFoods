@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-clearcut:17.0.0@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../allergen/IngredientsScanner/gradle/caches/transforms-4/0d528c1876ed086b8266935177afcb2b/transformed/jetified-play-services-clearcut-17.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../allergen/IngredientsScanner/gradle/caches/transforms-4/0d528c1876ed086b8266935177afcb2b/transformed/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
