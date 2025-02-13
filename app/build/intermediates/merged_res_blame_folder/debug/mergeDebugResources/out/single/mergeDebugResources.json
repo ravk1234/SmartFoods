@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_check.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/check.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-anydpi-v26_negative.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-anydpi-v26/negative.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_bg_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/bg_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-anydpi-v26_negative_round.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-anydpi-v26/negative_round.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_bg1.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_check_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/check_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/drawable_food_doctor.jpg.flat",
+        "source": "com.example.smartfoods.app-main-6:/drawable/food_doctor.jpg"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_negative_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/negative_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-anydpi-v26_check_round.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-anydpi-v26/check_round.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_negative.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/negative.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_bg.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/bg.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_check_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/check_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_bg.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-anydpi-v26_bg.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-anydpi-v26/bg.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_negative.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/negative.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_bg_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/bg_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-anydpi-v26_check.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-anydpi-v26/check.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/layout_activity_after_capture.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/layout/activity_after_capture.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/layout_ocr_capture.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/layout/ocr_capture.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/drawable-v24_check.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/drawable-v24/check.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_negative.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/negative.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_bg_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/bg_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/drawable_negative.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/drawable/negative.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_bg.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/bg.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_check_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/check_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_check.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/check.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-anydpi-v26_bg_round.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-anydpi-v26/bg_round.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_negative.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/negative.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_negative_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/negative_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/drawable_rounded_btn.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/drawable/rounded_btn.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_bg.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_bg_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/bg_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_bg1.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_negative_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/negative_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_negative_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/negative_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_negative_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/negative_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_bg1.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-hdpi_check.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-hdpi/check.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.smartfoods.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_check.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/check.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_bg_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/bg_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_check_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/check_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_check_round.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/check_round.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xhdpi_bg.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xhdpi/bg.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_negative.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/negative.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-mdpi_check.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-mdpi/check.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/font_opensans_semibold.ttf.flat",
+        "source": "com.example.smartfoods.app-main-6:/font/opensans_semibold.ttf"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxhdpi_bg1.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxhdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/drawable-v24_bg.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/drawable-v24/bg.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/mipmap-xxxhdpi_bg1.png.flat",
+        "source": "com.example.smartfoods.app-main-6:/mipmap-xxxhdpi/bg1.png"
+    },
+    {
+        "merged": "com.example.smartfoods.app-debug-4:/layout_activity_preferences.xml.flat",
+        "source": "com.example.smartfoods.app-main-6:/layout/activity_preferences.xml"
+    }
+]

@@ -1,221 +1,387 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
-MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\93c025b4d41457dba3e5f3715fd8249a\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a7e7527f087a204ee31d09c6645c1c42\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\69fbcbaba119d92781dd5adcf98e2e28\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\30b6b1dc0040b0a18264f08e259b4a0e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0b5f633f8588d76e4e0253b21011455d\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a1bf6df9ffcaf33b60dcf5b513d792db\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\55a178b1a8f0ede2fdc9dec912cbdee9\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\5c41bf0d91604234344b40f9c3da3d19\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\5363dc69bea434d5f6a7e4e7b6f2ca5e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0066d7e0d8614d853831e703a3f22fb8\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4e640a5d4d6461481d0d7c4fdf13c9d2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\aa766bdd45129be39efddfb4abdce1ec\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0a7c906f164edfcd208b43e70cb63c5b\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\ebab78d9a9dce718b9cd1d46797ea4b8\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\71124d358856901aad68fddd24734ea9\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\b0c960745767cb6c7de5a87ecdc76f5d\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\20c1d376e77e77eba49a2abba006bc11\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a655d2359516277548c82e45d35724dc\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\2d6666576e2a2057507e14258322f2c9\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\b30a972e48f8e2aa2862a27e14aa7c4f\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a1278d7b832ae6846b040b45d328fdc8\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\cc21fd76f958944e643384ebdbca5e5d\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\9c841cf3db0218d164787917957bff9e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\c85d9055eb0101986d08cee9b80f524b\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a10fa76687825d852b5c9e435d7d1105\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\494f55dcd8ba9f17477b0e0aac323e26\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\8f5e2465297dfd3456b57b4963818f23\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\86362d3fdce503ca9b6a951924784689\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\167e0f735a79621185b14df253f6b102\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a4d5b605cb453b38529330d11d070683\AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4d0720eb2225800e0223496d209398d5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\07dcc5d8d42ba4f82ee495a1a3489b56\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\7194a41e046043c27a8b816f129c6b43\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\19fd8c46f1ac7ee2efb691c70bba872e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4772fa54f822167d5dfb34617f8b50be\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\cd558ec64f60865ef3975a943ba7368f\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e5e936323e3a42646f80b8c751ac6fc4\AndroidManifest.xml:2:1-11:12
-MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\69b88d7301d24859d9881524fe086ca4\AndroidManifest.xml:2:1-5:12
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.material:material:1.12.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4e41cfd688f0c663f7cc7298d2b06c3e\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\876c47a1e98bcc654a586ca74f37622c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\49d889fc1887c427715b28b56f4feb01\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1ad5d81293179a39a17ccecf7df9a6ef\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1ad92696f1c060eacf3d9f094c81d94f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1e6b9ba40c5d748ca4130bdc6282a915\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a8224428c0ad733ae4bdfa19d5e4097a\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\0d528c1876ed086b8266935177afcb2b\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\56e5f231fc45d4ccdb3f37e65ea9294d\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\dfcbdf976dc5606c8b8346d926bb0877\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\5d63fe5bc86add694aa6143347970471\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3d5d310df119b78fd8a4dfd1b8e4afdc\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a3c38f13664bc9bc750bc9b5d2b7c47c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\14159060809ec039e59443717bed714c\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a4327bdc8d76c3be0313777fd3f04fea\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\8b2ba607ce66d61b3cbac4d59b506a88\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\e0a2065095aec05d83dbd17451a568fe\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a1090296b6e068ccc5e3c742845641d6\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.5.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\43c5a4fd70bc6a275090b15148c5779f\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\507f6aa238e68a2a85a772a54dcaff36\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d7e00faa91751a1e8bb5d17313bc3867\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\7da6015f2e315352778965a01ea370c5\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\274a48a898e1f7a0b6b14a1021807346\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\78b0f2748f1f50d2a51da4a60afe7561\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3ba994a04d275e1d5e4cca25eff7ee7a\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\91c03094d821fa6efa5f7286946c0c9f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\f7ed8c4f272f7e001688db113230bfba\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\5c1cc8d85fa790dcd9f68a2444ea3daa\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6946d04df8bcbedac369f03292339ce1\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\004a91d40ef674e8a9041881d0892bf9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\bc8a089edee3c523a789e6d71136d04a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6cb4f1a4e2d7a49d63eacf3263be1b6d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\ed554cf0b5c4e377b6d739ff2bd04a2c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\82b716bb04b409ae7f45c8341828be72\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\7077e5f64a6c450f59d84af2729896f7\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\aded7b2074c8dda457c8bc44fb73378c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\48e6db23ba0d7e918ef09a8792b61736\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4f7377295bbe96dcb66ea90750e5c2ab\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4dd976058ab551c98450c68700211767\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a48ef1d7d65f226196a4e1d49211fa86\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d45ae0677267ac768e93e67f5707fcb7\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d858d6b81468ab4ca87de4d07abebd23\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\8283203b80fa64dcee6eceaa080698e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\22ab40535af98e71f333a91f3f7f63e8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\b33dbef2c5bbb93030ccc8ef9bd834a7\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\9355af2da181140a0a373d93b30b8786\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\0790d1fa59dc4d92dda0fdfb4cddc757\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\2f3fe81ab5e048dd94d77025733462ac\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a5c8e2c4a40dffd47c483d4b682cfd27\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\142ac30b886fadd1b7fe0a1c02749f78\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
 	package
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
+		INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:1-36:12
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
+		INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:5:5-60
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:5:5-60
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:5:19-57
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:5:19-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:7:5-65
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:7:5-65
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:7:22-62
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:7:22-62
 application
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:9:5-34:19
-MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\93c025b4d41457dba3e5f3715fd8249a\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\93c025b4d41457dba3e5f3715fd8249a\AndroidManifest.xml:22:5-20
-MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\167e0f735a79621185b14df253f6b102\AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\167e0f735a79621185b14df253f6b102\AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a4d5b605cb453b38529330d11d070683\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a4d5b605cb453b38529330d11d070683\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e5e936323e3a42646f80b8c751ac6fc4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e5e936323e3a42646f80b8c751ac6fc4\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\69b88d7301d24859d9881524fe086ca4\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\69b88d7301d24859d9881524fe086ca4\AndroidManifest.xml:4:5-19
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:9:5-39:19
+INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:9:5-39:19
+MERGED from [com.google.android.material:material:1.12.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4e41cfd688f0c663f7cc7298d2b06c3e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4e41cfd688f0c663f7cc7298d2b06c3e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\876c47a1e98bcc654a586ca74f37622c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\876c47a1e98bcc654a586ca74f37622c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1e6b9ba40c5d748ca4130bdc6282a915\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1e6b9ba40c5d748ca4130bdc6282a915\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a8224428c0ad733ae4bdfa19d5e4097a\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a8224428c0ad733ae4bdfa19d5e4097a\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\0d528c1876ed086b8266935177afcb2b\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\0d528c1876ed086b8266935177afcb2b\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\dfcbdf976dc5606c8b8346d926bb0877\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\dfcbdf976dc5606c8b8346d926bb0877\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\5d63fe5bc86add694aa6143347970471\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\5d63fe5bc86add694aa6143347970471\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3d5d310df119b78fd8a4dfd1b8e4afdc\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3d5d310df119b78fd8a4dfd1b8e4afdc\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\8283203b80fa64dcee6eceaa080698e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\8283203b80fa64dcee6eceaa080698e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\22ab40535af98e71f333a91f3f7f63e8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\22ab40535af98e71f333a91f3f7f63e8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\167e0f735a79621185b14df253f6b102\AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:15:9-35
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:15:9-35
 	android:label
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:13:9-41
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:13:9-41
 	android:hardwareAccelerated
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:10:9-44
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:10:9-44
 	android:roundIcon
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:14:9-54
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:14:9-54
 	android:icon
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:12:9-43
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:12:9-43
 	android:allowBackup
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:11:9-35
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:11:9-35
 	android:theme
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:16:9-53
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:16:9-53
 activity#com.example.smartfoods.ocr.OcrCaptureActivity
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:17:9-19:41
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:18:9-20:41
 	android:label
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:19:13-38
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:20:13-38
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:18:13-51
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:19:13-51
 activity#com.example.smartfoods.AfterCaptureActivity
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:20:9-58
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:22:9-58
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:20:19-55
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:22:19-55
 activity#com.example.smartfoods.PreferencesActivity
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:21:9-66
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:24:9-66
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:21:19-54
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:24:19-54
 meta-data#com.google.android.gms.vision.DEPENDENCIES
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:23:9-25:35
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:26:9-28:35
 	android:value
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:25:13-32
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:28:13-32
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:24:13-70
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:27:13-70
 activity#com.example.smartfoods.MainActivity
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:27:9-33:20
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:exported
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:32:13-36
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:27:19-47
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:31:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:28:13-32:29
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:33:13-36:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:29:17-69
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:34:17-69
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:29:25-66
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:34:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:31:17-77
+ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:35:17-77
 	android:name
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml:31:27-74
+		ADDED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml:35:27-74
 uses-sdk
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\93c025b4d41457dba3e5f3715fd8249a\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0-alpha06] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\93c025b4d41457dba3e5f3715fd8249a\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a7e7527f087a204ee31d09c6645c1c42\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a7e7527f087a204ee31d09c6645c1c42\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\69fbcbaba119d92781dd5adcf98e2e28\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\69fbcbaba119d92781dd5adcf98e2e28\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\30b6b1dc0040b0a18264f08e259b4a0e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\30b6b1dc0040b0a18264f08e259b4a0e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0b5f633f8588d76e4e0253b21011455d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0b5f633f8588d76e4e0253b21011455d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a1bf6df9ffcaf33b60dcf5b513d792db\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a1bf6df9ffcaf33b60dcf5b513d792db\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\55a178b1a8f0ede2fdc9dec912cbdee9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\55a178b1a8f0ede2fdc9dec912cbdee9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\5c41bf0d91604234344b40f9c3da3d19\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\5c41bf0d91604234344b40f9c3da3d19\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\5363dc69bea434d5f6a7e4e7b6f2ca5e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\5363dc69bea434d5f6a7e4e7b6f2ca5e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0066d7e0d8614d853831e703a3f22fb8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0066d7e0d8614d853831e703a3f22fb8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4e640a5d4d6461481d0d7c4fdf13c9d2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4e640a5d4d6461481d0d7c4fdf13c9d2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\aa766bdd45129be39efddfb4abdce1ec\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\aa766bdd45129be39efddfb4abdce1ec\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0a7c906f164edfcd208b43e70cb63c5b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\0a7c906f164edfcd208b43e70cb63c5b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\ebab78d9a9dce718b9cd1d46797ea4b8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\ebab78d9a9dce718b9cd1d46797ea4b8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\71124d358856901aad68fddd24734ea9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\71124d358856901aad68fddd24734ea9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\b0c960745767cb6c7de5a87ecdc76f5d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\b0c960745767cb6c7de5a87ecdc76f5d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\20c1d376e77e77eba49a2abba006bc11\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\20c1d376e77e77eba49a2abba006bc11\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a655d2359516277548c82e45d35724dc\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a655d2359516277548c82e45d35724dc\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\2d6666576e2a2057507e14258322f2c9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\2d6666576e2a2057507e14258322f2c9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\b30a972e48f8e2aa2862a27e14aa7c4f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\b30a972e48f8e2aa2862a27e14aa7c4f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a1278d7b832ae6846b040b45d328fdc8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a1278d7b832ae6846b040b45d328fdc8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\cc21fd76f958944e643384ebdbca5e5d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\cc21fd76f958944e643384ebdbca5e5d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\9c841cf3db0218d164787917957bff9e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\9c841cf3db0218d164787917957bff9e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\c85d9055eb0101986d08cee9b80f524b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\c85d9055eb0101986d08cee9b80f524b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a10fa76687825d852b5c9e435d7d1105\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a10fa76687825d852b5c9e435d7d1105\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\494f55dcd8ba9f17477b0e0aac323e26\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\494f55dcd8ba9f17477b0e0aac323e26\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\8f5e2465297dfd3456b57b4963818f23\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\8f5e2465297dfd3456b57b4963818f23\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\86362d3fdce503ca9b6a951924784689\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\86362d3fdce503ca9b6a951924784689\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\167e0f735a79621185b14df253f6b102\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\167e0f735a79621185b14df253f6b102\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a4d5b605cb453b38529330d11d070683\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\a4d5b605cb453b38529330d11d070683\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4d0720eb2225800e0223496d209398d5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4d0720eb2225800e0223496d209398d5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\07dcc5d8d42ba4f82ee495a1a3489b56\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\07dcc5d8d42ba4f82ee495a1a3489b56\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\7194a41e046043c27a8b816f129c6b43\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\7194a41e046043c27a8b816f129c6b43\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\19fd8c46f1ac7ee2efb691c70bba872e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\19fd8c46f1ac7ee2efb691c70bba872e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4772fa54f822167d5dfb34617f8b50be\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\4772fa54f822167d5dfb34617f8b50be\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\cd558ec64f60865ef3975a943ba7368f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\cd558ec64f60865ef3975a943ba7368f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e5e936323e3a42646f80b8c751ac6fc4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\e5e936323e3a42646f80b8c751ac6fc4\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\69b88d7301d24859d9881524fe086ca4\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Ravi\.gradle\caches\transforms-2\files-2.1\69b88d7301d24859d9881524fe086ca4\AndroidManifest.xml:3:5-43
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
+INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml
+INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.12.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4e41cfd688f0c663f7cc7298d2b06c3e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4e41cfd688f0c663f7cc7298d2b06c3e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\876c47a1e98bcc654a586ca74f37622c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\876c47a1e98bcc654a586ca74f37622c\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\49d889fc1887c427715b28b56f4feb01\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\49d889fc1887c427715b28b56f4feb01\transformed\jetified-appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1ad5d81293179a39a17ccecf7df9a6ef\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1ad5d81293179a39a17ccecf7df9a6ef\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1ad92696f1c060eacf3d9f094c81d94f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1ad92696f1c060eacf3d9f094c81d94f\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1e6b9ba40c5d748ca4130bdc6282a915\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:20.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\1e6b9ba40c5d748ca4130bdc6282a915\transformed\jetified-play-services-vision-20.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a8224428c0ad733ae4bdfa19d5e4097a\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.1.3] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a8224428c0ad733ae4bdfa19d5e4097a\transformed\jetified-play-services-vision-common-19.1.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\0d528c1876ed086b8266935177afcb2b\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\0d528c1876ed086b8266935177afcb2b\transformed\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\56e5f231fc45d4ccdb3f37e65ea9294d\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\56e5f231fc45d4ccdb3f37e65ea9294d\transformed\jetified-play-services-flags-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\dfcbdf976dc5606c8b8346d926bb0877\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\dfcbdf976dc5606c8b8346d926bb0877\transformed\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\5d63fe5bc86add694aa6143347970471\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\5d63fe5bc86add694aa6143347970471\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3d5d310df119b78fd8a4dfd1b8e4afdc\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3d5d310df119b78fd8a4dfd1b8e4afdc\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a3c38f13664bc9bc750bc9b5d2b7c47c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a3c38f13664bc9bc750bc9b5d2b7c47c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\14159060809ec039e59443717bed714c\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\14159060809ec039e59443717bed714c\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a4327bdc8d76c3be0313777fd3f04fea\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a4327bdc8d76c3be0313777fd3f04fea\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\8b2ba607ce66d61b3cbac4d59b506a88\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\8b2ba607ce66d61b3cbac4d59b506a88\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\e0a2065095aec05d83dbd17451a568fe\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\e0a2065095aec05d83dbd17451a568fe\transformed\jetified-emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a1090296b6e068ccc5e3c742845641d6\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a1090296b6e068ccc5e3c742845641d6\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\43c5a4fd70bc6a275090b15148c5779f\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\43c5a4fd70bc6a275090b15148c5779f\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\507f6aa238e68a2a85a772a54dcaff36\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\507f6aa238e68a2a85a772a54dcaff36\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d7e00faa91751a1e8bb5d17313bc3867\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d7e00faa91751a1e8bb5d17313bc3867\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\7da6015f2e315352778965a01ea370c5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\7da6015f2e315352778965a01ea370c5\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\274a48a898e1f7a0b6b14a1021807346\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\274a48a898e1f7a0b6b14a1021807346\transformed\lifecycle-livedata-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\78b0f2748f1f50d2a51da4a60afe7561\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\78b0f2748f1f50d2a51da4a60afe7561\transformed\lifecycle-viewmodel-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3ba994a04d275e1d5e4cca25eff7ee7a\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3ba994a04d275e1d5e4cca25eff7ee7a\transformed\lifecycle-livedata-core-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\91c03094d821fa6efa5f7286946c0c9f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\91c03094d821fa6efa5f7286946c0c9f\transformed\lifecycle-runtime-2.6.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\f7ed8c4f272f7e001688db113230bfba\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\f7ed8c4f272f7e001688db113230bfba\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\5c1cc8d85fa790dcd9f68a2444ea3daa\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\5c1cc8d85fa790dcd9f68a2444ea3daa\transformed\jetified-core-ktx-1.13.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6946d04df8bcbedac369f03292339ce1\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6946d04df8bcbedac369f03292339ce1\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\004a91d40ef674e8a9041881d0892bf9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\004a91d40ef674e8a9041881d0892bf9\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\bc8a089edee3c523a789e6d71136d04a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\bc8a089edee3c523a789e6d71136d04a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6cb4f1a4e2d7a49d63eacf3263be1b6d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6cb4f1a4e2d7a49d63eacf3263be1b6d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\ed554cf0b5c4e377b6d739ff2bd04a2c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\ed554cf0b5c4e377b6d739ff2bd04a2c\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\82b716bb04b409ae7f45c8341828be72\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\82b716bb04b409ae7f45c8341828be72\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\7077e5f64a6c450f59d84af2729896f7\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\7077e5f64a6c450f59d84af2729896f7\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\aded7b2074c8dda457c8bc44fb73378c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\aded7b2074c8dda457c8bc44fb73378c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\48e6db23ba0d7e918ef09a8792b61736\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\48e6db23ba0d7e918ef09a8792b61736\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4f7377295bbe96dcb66ea90750e5c2ab\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4f7377295bbe96dcb66ea90750e5c2ab\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4dd976058ab551c98450c68700211767\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\4dd976058ab551c98450c68700211767\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a48ef1d7d65f226196a4e1d49211fa86\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a48ef1d7d65f226196a4e1d49211fa86\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d45ae0677267ac768e93e67f5707fcb7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d45ae0677267ac768e93e67f5707fcb7\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d858d6b81468ab4ca87de4d07abebd23\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\d858d6b81468ab4ca87de4d07abebd23\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\8283203b80fa64dcee6eceaa080698e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\8283203b80fa64dcee6eceaa080698e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\22ab40535af98e71f333a91f3f7f63e8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\22ab40535af98e71f333a91f3f7f63e8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\b33dbef2c5bbb93030ccc8ef9bd834a7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\b33dbef2c5bbb93030ccc8ef9bd834a7\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\9355af2da181140a0a373d93b30b8786\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\9355af2da181140a0a373d93b30b8786\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\0790d1fa59dc4d92dda0fdfb4cddc757\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\0790d1fa59dc4d92dda0fdfb4cddc757\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\2f3fe81ab5e048dd94d77025733462ac\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\2f3fe81ab5e048dd94d77025733462ac\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a5c8e2c4a40dffd47c483d4b682cfd27\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\a5c8e2c4a40dffd47c483d4b682cfd27\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\142ac30b886fadd1b7fe0a1c02749f78\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\142ac30b886fadd1b7fe0a1c02749f78\transformed\jetified-annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
+		INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Ravi\Downloads\SmartFoods\app\src\main\AndroidManifest.xml
+		INJECTED from C:\OCR-Food-ingredients-\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\fc285c1d701402279b9ef90e47fc08db\transformed\jetified-play-services-base-17.4.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3d5d310df119b78fd8a4dfd1b8e4afdc\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3d5d310df119b78fd8a4dfd1b8e4afdc\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.4.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\3d5d310df119b78fd8a4dfd1b8e4afdc\transformed\jetified-play-services-basement-17.4.0\AndroidManifest.xml:24:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\22ab40535af98e71f333a91f3f7f63e8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\22ab40535af98e71f333a91f3f7f63e8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\617b4bf024f4c49e1ee5a1d9ed3a3d1e\transformed\jetified-emoji2-1.3.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\874c0d9ca8617ffd51ad6ff2eeb3dc0b\transformed\jetified-lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+permission#com.example.smartfoods.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.smartfoods.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\906753b1313d0d6416aa8391cc212691\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] C:\allergen\IngredientsScanner\gradle\caches\transforms-4\6efbfac4865fe5d6f0d962a1601ceddc\transformed\jetified-profileinstaller-1.3.1\AndroidManifest.xml:50:25-92

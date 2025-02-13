@@ -1,7 +1,19 @@
-#Fri Oct 25 01:56:19 IST 2019
-base.0=C\:\\Users\\Ravi\\Downloads\\SmartFoods\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
-path.1=classes.dex
-renamed.1=classes2.dex
+#Sun Sep 29 23:25:09 IST 2024
+base.0=C\:\\OCR-Food-ingredients-\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\OCR-Food-ingredients-\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\OCR-Food-ingredients-\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\11\\classes.dex
+base.3=C\:\\OCR-Food-ingredients-\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+base.4=C\:\\OCR-Food-ingredients-\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.5=C\:\\OCR-Food-ingredients-\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes2.dex
 path.0=classes.dex
+path.1=0/classes.dex
+path.2=11/classes.dex
+path.3=2/classes.dex
+path.4=5/classes.dex
+path.5=classes2.dex
 renamed.0=classes.dex
-base.1=C\:\\Users\\Ravi\\Downloads\\SmartFoods\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
+renamed.5=classes6.dex

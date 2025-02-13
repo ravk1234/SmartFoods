@@ -14,23 +14,28 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light">
+
         <activity
             android:name=".ocr.OcrCaptureActivity"
             android:label="Read Text" />
+
         <activity android:name=".AfterCaptureActivity" />
+
         <activity android:name=".PreferencesActivity"></activity>
 
         <meta-data
             android:name="com.google.android.gms.vision.DEPENDENCIES"
             android:value="ocr" />
 
-        <activity android:name=".MainActivity">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">  <!-- Required for Android 12 and higher -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-    </application>
+
+    </application> <!-- Closing application tag is added here -->
 
 </manifest>
